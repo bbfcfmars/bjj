@@ -1,0 +1,27 @@
+{
+  "_comment": "Map technique_name (English) to diagram_images. Run: node src/scripts/import-diagrams.js",
+  "Sliding Collar Choke": [
+    {
+      "url": "https://bjj-world.com/wp-content/uploads/2020/04/c8a60e3d0b67f631ab63581a0abdfb34.jpg",
+      "caption": "Choke detail",
+      "source": "BJJ World"
+    },
+    {
+      "url": "https://www.jiujitsubrotherhood.com/cdn/shop/articles/4_Positions.png?v=1761386453",
+      "caption": "Position reference",
+      "source": "Jiujitsu Brotherhood"
+    }
+  ],
+  "Armbar from Closed Guard": [
+    {
+      "url": "https://www.elitesports.com/cdn/shop/articles/img-1718277785503_ca288c81-dd36-4c31-a826-0e94e3f0d8ea.png?v=1736540180&width=1400",
+      "caption": "Back survival / control",
+      "source": "Elite Sports"
+    },
+    {
+      "url": "https://i.pinimg.com/1200x/84/1e/e6/841ee68a991ca64dd230c864b771223f.jpg",
+      "caption": "Armbar reference",
+      "source": "Pinterest"
+    }
+  ]
+}

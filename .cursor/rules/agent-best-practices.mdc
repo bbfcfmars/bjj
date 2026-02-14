@@ -1,0 +1,15 @@
+---
+description: Agent best practices – plan mode, context, review, deterministic code, prompts.
+alwaysApply: true
+---
+# Agent Best Practices (BPS)
+## Plan before build
+Use Plan mode for non-trivial work; edit the plan then Build. If off-track early, revert + change plan + restart. Use git to move back and restart clean.
+## Context
+New conversation at natural break points. Rely on codebase search; add specific files only when forcing focus. Long threads: compact/summarize or new chat + @ past.
+## Prompts
+Be specific (direction, constraints). Ask for alternatives + recommendation; push back on wrong approaches. Treat agent as collaborator.
+## Review and determinism
+Review every change. Use typed language, linter, tests; run before/after risky changes.
+## Rules vs skills
+Rules = static always-on (keep short). Skills = dynamic, agent picks when to use.

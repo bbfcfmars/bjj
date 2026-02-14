@@ -1,0 +1,50 @@
+{
+  "technique_name": "Sliding Collar Choke",
+  "portuguese_name": "Estrangulamento de Gola Deslizante",
+  "description": "The sliding collar choke is a highly effective submission applied from the mount position. It relies on tight lapel grips and proper body positioning to constrict the opponent's carotid arteries. This variation emphasizes minimizing space for escape by keeping the arms tight and using precise hand placement for a swift finish.",
+  "difficulty": "Intermediate",
+  "sequential_diagram_steps": [
+    {
+      "timestamp": "0:08",
+      "label": "Initial Cross-Collar Grip",
+      "detail": "From the mount position, establish a deep cross-collar grip on the opponent's left lapel with your right hand, thumb inside.",
+      "timestamp_seconds": 8,
+      "image_path": "/frames/6651656503394-03-03- Pedro Sauer/step_0.jpg"
+    },
+    {
+      "timestamp": "0:20",
+      "label": "Opponent Rotation & Second Hand",
+      "detail": "Rotate the opponent to their side by pulling them towards you, then slide your left hand deep under their head, reaching for the opposite lapel.",
+      "timestamp_seconds": 20,
+      "image_path": "/frames/6651656503394-03-03- Pedro Sauer/step_1.jpg"
+    },
+    {
+      "timestamp": "0:30",
+      "label": "Feeding the Lapel",
+      "detail": "With your left hand, grab the opponent's right lapel and feed it to your right hand, securing a tight two-finger grip on the gi fabric.",
+      "timestamp_seconds": 30,
+      "image_path": "/frames/6651656503394-03-03- Pedro Sauer/step_2.jpg"
+    },
+    {
+      "timestamp": "0:48",
+      "label": "Choke Application",
+      "detail": "Eliminate all slack from the lapel grips and apply the choke by rotating your wrists inward, keeping your arms compact and tight to prevent the opponent from escaping.",
+      "timestamp_seconds": 48,
+      "image_path": "/frames/6651656503394-03-03- Pedro Sauer/step_3.jpg"
+    }
+  ],
+  "enrichment": {
+    "diagram_images": [
+      {
+        "url": "https://bjj-world.com/wp-content/uploads/2020/04/c8a60e3d0b67f631ab63581a0abdfb34.jpg",
+        "caption": "Choke detail",
+        "source": "BJJ World"
+      },
+      {
+        "url": "https://www.jiujitsubrotherhood.com/cdn/shop/articles/4_Positions.png?v=1761386453",
+        "caption": "Position reference",
+        "source": "Jiujitsu Brotherhood"
+      }
+    ]
+  }
+}

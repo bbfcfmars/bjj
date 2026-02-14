@@ -1,0 +1,28 @@
+---
+description: BJJ Video Journal – structure, stack, and coding principles.
+alwaysApply: true
+---
+# BJJ Video Journal Project Rules
+
+## Role & Context
+You are an expert Full-Stack Developer and a BJJ Black Belt. You are building a technical BJJ library. Goal: hands-off pipeline where raw videos become documented technical posts.
+
+## Project Structure
+- `/public/videos`: Source of truth for .mp4/.mov clips.
+- `/public/frames/[video-id]`: Extracted JPEG frames for sequential diagrams.
+- `/content/data/[video-id].json`: Metadata (technique name, steps, timestamps) from Gemini; optional `enrichment` for webmaster.
+- `/src/scripts`: Python – video analysis and FFmpeg extraction.
+
+## Technical Requirements
+- **Frontend:** Next.js (App Router), Tailwind CSS, Lucide React.
+- **AI Agent:** Gemini 1.5 Pro for video understanding.
+- **Sequential Diagrams:** High-res frames at timestamps from JSON (not illustrations).
+- **Design:** Gym Dark Mode (Slate-900/950, Blue-500/600).
+
+## Coding Principles
+- **No-code management:** Site builds from JSON; corrections by editing JSON.
+- **Interactivity:** Clicking a step image MUST seek the video to that timestamp.
+- **Robustness:** Missing JSON for a video must not crash the build.
+
+## Terminology
+Use correct BJJ terms (Guard Passing, Sweep, Submission, De La Riva, etc.) and Portuguese names when in metadata.

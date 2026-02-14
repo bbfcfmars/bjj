@@ -1,0 +1,51 @@
+{
+  "technique_name": "Armbar from Closed Guard",
+  "portuguese_name": "Chave de braço da guarda fechada",
+  "description": "Classic submission from closed guard. Break the posture, isolate the arm, pivot the hips and extend.",
+  "difficulty": "Beginner",
+  "sequential_diagram_steps": [
+    {
+      "timestamp": "0:00",
+      "timestamp_seconds": 0,
+      "label": "Setup",
+      "detail": "Closed guard, control posture.",
+      "image_path": "/frames/sample-armbar/step_0.jpg"
+    },
+    {
+      "timestamp": "0:05",
+      "timestamp_seconds": 5,
+      "label": "Isolate arm",
+      "detail": "Grip and trap the arm across centerline.",
+      "image_path": "/frames/sample-armbar/step_1.jpg"
+    },
+    {
+      "timestamp": "0:10",
+      "timestamp_seconds": 10,
+      "label": "Execution",
+      "detail": "Pivot hips, extend for the finish.",
+      "image_path": "/frames/sample-armbar/step_2.jpg"
+    },
+    {
+      "timestamp": "0:15",
+      "timestamp_seconds": 15,
+      "label": "Finish",
+      "detail": "Squeeze knees, arch and extend.",
+      "image_path": "/frames/sample-armbar/step_3.jpg"
+    }
+  ],
+  "enrichment": {
+    "diagram_images": [
+      {
+        "url": "https://www.elitesports.com/cdn/shop/articles/img-1718277785503_ca288c81-dd36-4c31-a826-0e94e3f0d8ea.png?v=1736540180&width=1400",
+        "caption": "Back survival / control",
+        "source": "Elite Sports"
+      },
+      {
+        "url": "https://i.pinimg.com/1200x/84/1e/e6/841ee68a991ca64dd230c864b771223f.jpg",
+        "caption": "Armbar reference",
+        "source": "Pinterest"
+      }
+    ]
+  },
+  "subtitle_path": null
+}

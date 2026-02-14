@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Env (never commit keys)
+.env
+.env.local
+.env.*.local
+
+# Next
+.next/
+out/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE
+.idea/
+*.swp
+.DS_Store
+
+# Misc
+*.log
+.vercel
