@@ -4,7 +4,8 @@
 
 :root {
   --bg: 15 23 42;
-  --accent: 59 130 246;
+  /* Accent matches logo red (approx. Tailwind red-500) */
+  --accent: 239 68 68;
 }
 body {
   @apply bg-slate-950 text-slate-100 antialiased;

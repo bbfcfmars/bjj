@@ -1,0 +1,38 @@
+{
+  "technique_name": "North-South Choke - Alignment and Positioning",
+  "portuguese_name": "Estrangulamento Norte-Sul",
+  "description": "This technique focuses on the proper alignment and positioning required to effectively execute the North-South choke. The key is to maintain a constant, steady pressure against the opponent's neck by aligning your body with theirs and keeping your feet active, avoiding overshooting or losing balance.",
+  "difficulty": "Intermediate",
+  "sequential_diagram_steps": [
+    {
+      "timestamp": "0:05",
+      "label": "Initial Setup",
+      "detail": "The instructor begins from a side control position, preparing to transition to the North-South choke by clearing the opponent's hands.",
+      "timestamp_seconds": 5,
+      "image_path": "/frames/6651656503394-01-03-Alignment And Positioning/step_0.jpg"
+    },
+    {
+      "timestamp": "0:12",
+      "label": "Establishing Connection",
+      "detail": "He moves into the North-South position, securing one arm around the opponent's neck and connecting his hands for the choke grip.",
+      "timestamp_seconds": 12,
+      "image_path": "/frames/6651656503394-01-03-Alignment And Positioning/step_1.jpg"
+    },
+    {
+      "timestamp": "0:45",
+      "label": "Proper Body Alignment",
+      "detail": "The instructor emphasizes aligning his shoulder directly with the opponent's neck, ensuring his body is in line with the opponent's to direct all pressure effectively.",
+      "timestamp_seconds": 45,
+      "image_path": "/frames/6651656503394-01-03-Alignment And Positioning/step_2.jpg"
+    },
+    {
+      "timestamp": "1:21",
+      "label": "Sustained Pressure and Stability",
+      "detail": "He starts a slow, steady squeeze for the choke, keeping his feet posted on the ground and slightly spread for maximum stability against the opponent's movements, preventing loss of position.",
+      "timestamp_seconds": 81,
+      "image_path": "/frames/6651656503394-01-03-Alignment And Positioning/step_3.jpg"
+    }
+  ],
+  "subtitle_path": "/subtitles/6651656503394-01-03-Alignment And Positioning.vtt",
+  "enrichment": null
+}

@@ -1,0 +1,38 @@
+{
+  "technique_name": "Kimura Grip Break and Finish Mechanics",
+  "portuguese_name": "Kimura",
+  "description": "This instructional details the precise positioning and body mechanics required to break an opponent's defensive grip and effectively finish a Kimura. It highlights using full body weight, engaging the feet, and targeting the opponent's hand for maximum leverage to ensure a powerful and inescapable submission.",
+  "difficulty": "Intermediate",
+  "sequential_diagram_steps": [
+    {
+      "timestamp": "0:56",
+      "label": "Initial Kimura Position",
+      "detail": "The instructor establishes the initial Kimura grip from a side control-like position, with the opponent lying on their side.",
+      "timestamp_seconds": 56,
+      "image_path": "/frames/6651656503394-03-05- Rafael Lovato Jr/step_0.jpg"
+    },
+    {
+      "timestamp": "1:40",
+      "label": "Body Connection and Base",
+      "detail": "Maintain strong chest connection to the opponent's tricep/elbow and keep toes engaged on the mat to drive weight down, preventing them from turning or escaping.",
+      "timestamp_seconds": 100,
+      "image_path": "/frames/6651656503394-03-05- Rafael Lovato Jr/step_1.jpg"
+    },
+    {
+      "timestamp": "3:23",
+      "label": "Targeting the Grip",
+      "detail": "Dig your fingers deeply into the opponent's gripping hand, rather than just their wrist, and roll your wrist to create internal pressure, avoiding thumb usage for a stronger breaking force.",
+      "timestamp_seconds": 203,
+      "image_path": "/frames/6651656503394-03-05- Rafael Lovato Jr/step_2.jpg"
+    },
+    {
+      "timestamp": "6:20",
+      "label": "Explosive Finish",
+      "detail": "Generate momentum by slightly lifting your knees, then execute an explosive lateral turn, keeping the opponent's arm tightly connected to your body and behind their back to complete the submission.",
+      "timestamp_seconds": 380,
+      "image_path": "/frames/6651656503394-03-05- Rafael Lovato Jr/step_3.jpg"
+    }
+  ],
+  "subtitle_path": "/subtitles/6651656503394-03-05- Rafael Lovato Jr.vtt",
+  "enrichment": null
+}

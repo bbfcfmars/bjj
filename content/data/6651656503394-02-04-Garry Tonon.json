@@ -1,0 +1,38 @@
+{
+  "technique_name": "Inverted Heel Hook",
+  "portuguese_name": "Calcanhar Invertido",
+  "description": "The inverted heel hook is a powerful leg lock that attacks the knee joint by applying rotational force to the heel. It's often performed from leg entanglements like cross ashi garami, requiring precise hand placement and hip leverage for effective breaking pressure.",
+  "difficulty": "Advanced",
+  "sequential_diagram_steps": [
+    {
+      "timestamp": "0:15",
+      "label": "Leg Entanglement Setup",
+      "detail": "The instructor demonstrates securing a leg entanglement, with his legs crossed over the opponent's leg, which is the foundational position for the inverted heel hook.",
+      "timestamp_seconds": 15,
+      "image_path": "/frames/6651656503394-02-04-Garry Tonon/step_0.jpg"
+    },
+    {
+      "timestamp": "0:57",
+      "label": "Grip and Foot Placement",
+      "detail": "He emphasizes the critical hand placement: the opponent's toes are pulled towards the attacker's bicep, and the attacker's wrist is positioned underneath the opponent's heel for optimal control.",
+      "timestamp_seconds": 57,
+      "image_path": "/frames/6651656503394-02-04-Garry Tonon/step_1.jpg"
+    },
+    {
+      "timestamp": "3:57",
+      "label": "Elevate Hips for Leverage",
+      "detail": "A crucial mechanic is to lift the hips off the mat, allowing the attacker to apply their full body weight and rotational force directly onto the opponent's knee joint.",
+      "timestamp_seconds": 237,
+      "image_path": "/frames/6651656503394-02-04-Garry Tonon/step_2.jpg"
+    },
+    {
+      "timestamp": "4:45",
+      "label": "Execution with Hip Drive",
+      "detail": "With the correct grip and elevated hips, the attacker drives their hips down and rotates their upper body, twisting the opponent's foot against the knee to generate the breaking pressure for the submission.",
+      "timestamp_seconds": 285,
+      "image_path": "/frames/6651656503394-02-04-Garry Tonon/step_3.jpg"
+    }
+  ],
+  "subtitle_path": "/subtitles/6651656503394-02-04-Garry Tonon.vtt",
+  "enrichment": null
+}

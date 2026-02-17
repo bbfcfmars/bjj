@@ -1,0 +1,38 @@
+{
+  "technique_name": "Mandible Strangle",
+  "portuguese_name": "",
+  "description": "The Mandible Strangle is a rear-naked choke variation applied when the primary choking arm cannot get under the opponent's jaw. It involves flaring the underhook elbow out to elevate the body, allowing the hand to slide across the opponent's face to achieve a palm-to-bicep grip and finish the choke by pushing the jaw back into the carotid artery. This technique is presented as a choke rather than a crank.",
+  "difficulty": "Intermediate",
+  "sequential_diagram_steps": [
+    {
+      "timestamp": "0:25",
+      "label": "Initial Position (Arm Over Jaw)",
+      "detail": "The attacker is on the opponent's back with one arm under the neck and the other arm trapped over the opponent's jaw, preventing a standard RNC lock.",
+      "timestamp_seconds": 25,
+      "image_path": "/frames/6651656503394-02-01-Gordon Ryan/step_0.jpg"
+    },
+    {
+      "timestamp": "1:38",
+      "label": "Elbow Flare and Elevation",
+      "detail": "The attacker flares the elbow of the underhook arm outwards and uses it as a pivot to elevate their body, aligning their shoulder and elbow, thereby freeing the trapped arm.",
+      "timestamp_seconds": 98,
+      "image_path": "/frames/6651656503394-02-01-Gordon Ryan/step_1.jpg"
+    },
+    {
+      "timestamp": "2:06",
+      "label": "Hand Transition and Lock Setup",
+      "detail": "With the body elevated, the previously trapped hand is freed and slides across the opponent's face to establish a palm-to-bicep grip for the full rear-naked choke.",
+      "timestamp_seconds": 126,
+      "image_path": "/frames/6651656503394-02-01-Gordon Ryan/step_2.jpg"
+    },
+    {
+      "timestamp": "2:12",
+      "label": "Execution of Mandible Strangle",
+      "detail": "The attacker falls back to apply pressure, locking the hands and using the forearm over the jaw to drive the mandible into the carotid artery, initiating the strangle.",
+      "timestamp_seconds": 132,
+      "image_path": "/frames/6651656503394-02-01-Gordon Ryan/step_3.jpg"
+    }
+  ],
+  "subtitle_path": "/subtitles/6651656503394-02-01-Gordon Ryan.vtt",
+  "enrichment": null
+}

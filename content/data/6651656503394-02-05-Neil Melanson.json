@@ -1,0 +1,38 @@
+{
+  "technique_name": "Pendulum Sweep Armbar",
+  "portuguese_name": "Armlock",
+  "description": "This technique demonstrates a no-gi armbar setup that transitions from a pendulum sweep attempt. The key is to first get the opponent off balance with the sweep motion before fully committing to the armbar, ensuring higher success and better control from the top position. The practitioner emphasizes curling the heels for increased breaking pressure.",
+  "difficulty": "Intermediate",
+  "sequential_diagram_steps": [
+    {
+      "timestamp": "2:25",
+      "label": "Initial Guard Setup",
+      "detail": "The practitioner is in a closed guard position, controlling one arm and creating space to initiate the sweep.",
+      "timestamp_seconds": 145,
+      "image_path": "/frames/6651656503394-02-05-Neil Melanson/step_0.jpg"
+    },
+    {
+      "timestamp": "2:38",
+      "label": "Arm and Leg Control",
+      "detail": "The practitioner maintains control of the opponent's arm and uses their legs to create a strong hook for the sweep, preparing to unbalance the opponent.",
+      "timestamp_seconds": 158,
+      "image_path": "/frames/6651656503394-02-05-Neil Melanson/step_1.jpg"
+    },
+    {
+      "timestamp": "2:52",
+      "label": "Pendulum Sweep Execution",
+      "detail": "The practitioner executes the pendulum sweep by extending one leg and swinging the other, driving the opponent forward and off balance while maintaining arm control.",
+      "timestamp_seconds": 172,
+      "image_path": "/frames/6651656503394-02-05-Neil Melanson/step_2.jpg"
+    },
+    {
+      "timestamp": "3:00",
+      "label": "Armbar Finish",
+      "detail": "Upon completing the sweep and landing on top, the practitioner immediately secures the armbar by curling their heels and driving their hips, applying precise breaking pressure to the opponent's arm.",
+      "timestamp_seconds": 180,
+      "image_path": "/frames/6651656503394-02-05-Neil Melanson/step_3.jpg"
+    }
+  ],
+  "subtitle_path": "/subtitles/6651656503394-02-05-Neil Melanson.vtt",
+  "enrichment": null
+}

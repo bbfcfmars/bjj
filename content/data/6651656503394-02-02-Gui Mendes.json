@@ -1,0 +1,38 @@
+{
+  "technique_name": "Collar Grip to Armbar (Surprise Attack)",
+  "portuguese_name": "Armlock da Gola",
+  "description": "This armbar technique is executed from a seated guard position when the opponent is attempting a guard pass, specifically a Toreando pass. It leverages a collar grip and a quick hip switch to surprise the opponent by transitioning directly into an armbar submission without a typical setup.",
+  "difficulty": "Intermediate",
+  "sequential_diagram_steps": [
+    {
+      "timestamp": "0:05",
+      "label": "Initial Collar Grip Setup",
+      "detail": "Start seated, maintaining a strong collar grip while the opponent attempts a Toreando guard pass and grips your pants.",
+      "timestamp_seconds": 5,
+      "image_path": "/frames/6651656503394-02-02-Gui Mendes/step_0.jpg"
+    },
+    {
+      "timestamp": "0:18",
+      "label": "Hip Switch and Leg Placement",
+      "detail": "Slide your free foot (opposite the collar grip) to the opponent's hip, simultaneously switching your own hips to create an angle for the arm attack.",
+      "timestamp_seconds": 18,
+      "image_path": "/frames/6651656503394-02-02-Gui Mendes/step_1.jpg"
+    },
+    {
+      "timestamp": "0:24",
+      "label": "Dynamic Roll and Arm Isolation",
+      "detail": "Roll backward dynamically, bringing your leg over the opponent's head to isolate their arm while maintaining the collar grip.",
+      "timestamp_seconds": 24,
+      "image_path": "/frames/6651656503394-02-02-Gui Mendes/step_2.jpg"
+    },
+    {
+      "timestamp": "0:28",
+      "label": "Secure and Finish Armbar",
+      "detail": "Catch the opponent's triceps, break their grip by kicking, and secure the straight armbar by closing your elbow and pressing your knee against their trapped elbow.",
+      "timestamp_seconds": 28,
+      "image_path": "/frames/6651656503394-02-02-Gui Mendes/step_3.jpg"
+    }
+  ],
+  "subtitle_path": "/subtitles/6651656503394-02-02-Gui Mendes.vtt",
+  "enrichment": null
+}

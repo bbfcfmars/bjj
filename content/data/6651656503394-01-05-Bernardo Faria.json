@@ -1,0 +1,38 @@
+{
+  "technique_name": "Closed Guard Pass to Side Control (Roll Prevention)",
+  "portuguese_name": "Passagem de Guarda para Controle Lateral (Impedindo a Rolagem)",
+  "description": "This technique teaches how to pass the closed guard and establish side control while specifically preventing the opponent from rolling or inverting. It emphasizes securing key grips and body positioning to flatten the opponent and maintain dominance.",
+  "difficulty": "Intermediate",
+  "sequential_diagram_steps": [
+    {
+      "timestamp": "0:05",
+      "label": "Freeing the Knee",
+      "detail": "The top player pushes their trapped leg through the opponent's armpit to free their knee from the leg entanglement.",
+      "timestamp_seconds": 5,
+      "image_path": "/frames/6651656503394-01-05-Bernardo Faria/step_0.jpg"
+    },
+    {
+      "timestamp": "0:12",
+      "label": "Blocking Opponent's Roll",
+      "detail": "Immediately after freeing the knee, the top player secures grips on the opponent's belt and pants, effectively blocking any attempt to roll or sweep.",
+      "timestamp_seconds": 12,
+      "image_path": "/frames/6651656503394-01-05-Bernardo Faria/step_1.jpg"
+    },
+    {
+      "timestamp": "0:54",
+      "label": "Deep Lapel Grip & Posture",
+      "detail": "The top player transitions to a deep lapel grip around the opponent's far shoulder while maintaining the belt grip to pull themselves up and establish strong leverage.",
+      "timestamp_seconds": 54,
+      "image_path": "/frames/6651656503394-01-05-Bernardo Faria/step_2.jpg"
+    },
+    {
+      "timestamp": "1:25",
+      "label": "Flatten to Side Control",
+      "detail": "By stretching one leg and executing hip escapes, the top player flattens the opponent's entire back to the mat and establishes a dominant side control position.",
+      "timestamp_seconds": 85,
+      "image_path": "/frames/6651656503394-01-05-Bernardo Faria/step_3.jpg"
+    }
+  ],
+  "subtitle_path": "/subtitles/6651656503394-01-05-Bernardo Faria.vtt",
+  "enrichment": null
+}

@@ -1,4 +1,3 @@
-import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getTechnique, getTechniqueIds } from "@/app/lib/techniques";
 import { TechniqueBreakdown } from "@/components/TechniqueBreakdown";
@@ -21,18 +20,6 @@ export default async function TechniquePage({ params }: Props) {
 
   return (
     <div className="min-h-screen bg-slate-950">
-      <header className="border-b border-slate-800 px-4 py-4 flex items-center justify-between gap-4">
-        <Link
-          href="/"
-          className="inline-flex items-center gap-2 text-slate-400 hover:text-slate-200 text-sm"
-        >
-          <ArrowLeft className="w-4 h-4" /> Back to library
-        </Link>
-        <Link href="/" className="flex items-center gap-2 text-slate-300 hover:text-slate-100" aria-label="JJBJJ home">
-          <img src="/jjbjj.svg" alt="" className="h-8 w-auto" aria-hidden />
-          <span className="font-semibold text-sm">JJBJJ</span>
-        </Link>
-      </header>
       <main className="p-4 max-w-4xl mx-auto">
         <div className="mb-6">
           <h1 className="text-2xl font-bold text-slate-100">{data.technique_name}</h1>

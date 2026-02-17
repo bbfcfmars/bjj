@@ -17,7 +17,9 @@ Agent-curated video blog for learning Brazilian Jiu-Jitsu. Raw session footage i
 
 ## Operations (CTO/DevOps)
 
-- **All commands and fixes run in-session.** No expectation that you run terminal commands or fix console errors; the agent runs builds, dev server, Python pipeline, and addresses any errors.
+- **Next agent cue:** Read `_notes/HANDOFF.md` for full context; agent runs all commands; fix lucide/module errors with `rm -rf .next && npm run build` then restart dev.
+- **Handoff:** See `_notes/HANDOFF.md` for session handoff (context, progress, next steps, commands).
+- **Agent runs ALL commands.** Never ask the user to run terminal commands or copy/paste. Agent runs builds, dev server, pipeline, imports, and fixes. No copy/paste workflow—agent is the CTO and executes everything.
 - **If you see module/vendor-chunk errors (e.g. lucide-react):** Agent runs `rm -rf .next && npm run build` (or `npm run clean && npm run build`) and restarts dev; no action required from you.
 
 ## Development Philosophy

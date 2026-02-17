@@ -6,16 +6,7 @@ export default function HomePage() {
   const techniques = getAllTechniques();
   return (
     <div className="min-h-screen bg-slate-950">
-      <header className="border-b border-slate-800 px-4 py-6">
-        <Link href="/" className="inline-flex items-center gap-3">
-          <img src="/jjbjj.svg" alt="" className="h-10 w-auto" aria-hidden />
-          <div>
-            <h1 className="text-2xl font-bold text-slate-100">JJBJJ</h1>
-            <p className="text-slate-400 text-sm mt-0.5">AI-automated technical library</p>
-          </div>
-        </Link>
-      </header>
-      <main className="p-4 max-w-5xl mx-auto">
+      <section className="p-4 max-w-5xl mx-auto">
         {techniques.length === 0 ? (
           <div className="rounded-xl bg-slate-900/80 border border-slate-700 p-8 text-center text-slate-400">
             <Video className="w-12 h-12 mx-auto mb-3 opacity-50" />
@@ -57,7 +48,7 @@ export default function HomePage() {
             ))}
           </div>
         )}
-      </main>
+      </section>
     </div>
   );
 }

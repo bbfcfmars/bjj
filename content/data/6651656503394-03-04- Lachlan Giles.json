@@ -1,0 +1,38 @@
+{
+  "technique_name": "Armbar from Closed Guard - Basic",
+  "portuguese_name": null,
+  "description": "This technique demonstrates the fundamental steps of securing an armbar from a closed guard position. It focuses on controlling the opponent's posture and arm, climbing the legs to isolate the shoulder, and then extending the hips for the submission.",
+  "difficulty": "Beginner",
+  "sequential_diagram_steps": [
+    {
+      "timestamp": "0:34",
+      "label": "Control Arm & Break Posture",
+      "detail": "From closed guard, secure one of the opponent's arms across their centerline by controlling the wrist and pulling their head down towards their chest.",
+      "timestamp_seconds": 34,
+      "image_path": "/frames/6651656503394-03-04- Lachlan Giles/step_0.jpg"
+    },
+    {
+      "timestamp": "1:44",
+      "label": "Climb First Leg & Trap Shoulder",
+      "detail": "Step one foot on the opponent's hip, move your hips out to the side for an angle, and bring the first leg high over their shoulder to trap it.",
+      "timestamp_seconds": 104,
+      "image_path": "/frames/6651656503394-03-04- Lachlan Giles/step_1.jpg"
+    },
+    {
+      "timestamp": "2:59",
+      "label": "Swing Second Leg Over",
+      "detail": "Release your arm control on the opponent's head and swing your second leg over their head, securing both feet crossed on the hip to fully isolate the arm.",
+      "timestamp_seconds": 179,
+      "image_path": "/frames/6651656503394-03-04- Lachlan Giles/step_2.jpg"
+    },
+    {
+      "timestamp": "3:10",
+      "label": "Extend Hips for Submission",
+      "detail": "Slide your hands down towards the opponent's wrist, keeping their arm tight to your chest, and lift your hips to hyperextend the elbow joint for the submission.",
+      "timestamp_seconds": 190,
+      "image_path": "/frames/6651656503394-03-04- Lachlan Giles/step_3.jpg"
+    }
+  ],
+  "subtitle_path": "/subtitles/6651656503394-03-04- Lachlan Giles.vtt",
+  "enrichment": null
+}

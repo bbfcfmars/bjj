@@ -1,0 +1,38 @@
+{
+  "technique_name": "Cross Collar Choke From The Mount",
+  "portuguese_name": "Estrangulamento Cruzado da Montada",
+  "description": "The cross collar choke from mount is a submission that requires precise control and proper grip placement. The practitioner must maintain a secure mounted position while initiating the choke, preventing the opponent from bridging or escaping, and ensuring deep and effective grips to generate maximum pressure.",
+  "difficulty": "Advanced",
+  "sequential_diagram_steps": [
+    {
+      "timestamp": "0:09",
+      "label": "Introduction and Strategy",
+      "detail": "The instructor explains the inherent challenges of the cross collar choke from mount, emphasizing the necessity of precise details and maintaining control while both hands are busy.",
+      "timestamp_seconds": 9,
+      "image_path": "/frames/6651656503394-03-01- Roger Gracie/step_0.jpg"
+    },
+    {
+      "timestamp": "2:09",
+      "label": "Securing the First Grip",
+      "detail": "The practitioner establishes a deep cross-collar grip with one hand, ensuring immediate pressure and maintaining a low, stable mount to prevent the opponent from bridging or escaping.",
+      "timestamp_seconds": 129,
+      "image_path": "/frames/6651656503394-03-01- Roger Gracie/step_1.jpg"
+    },
+    {
+      "timestamp": "10:00",
+      "label": "Establishing the Second Grip and Positional Adjustment",
+      "detail": "The practitioner inserts the second hand deeply into the opposite collar, with the elbow down, while adjusting their body weight and head position to maximize leverage and maintain control.",
+      "timestamp_seconds": 600,
+      "image_path": "/frames/6651656503394-03-01- Roger Gracie/step_2.jpg"
+    },
+    {
+      "timestamp": "11:27",
+      "label": "Execution and Finish",
+      "detail": "The practitioner rotates their body and drives their elbows inwards and downwards, applying maximum pressure with their forearms against the opponent's neck to complete the choke.",
+      "timestamp_seconds": 687,
+      "image_path": "/frames/6651656503394-03-01- Roger Gracie/step_3.jpg"
+    }
+  ],
+  "subtitle_path": "/subtitles/6651656503394-03-01- Roger Gracie.vtt",
+  "enrichment": null
+}

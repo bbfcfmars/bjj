@@ -1,0 +1,38 @@
+{
+  "technique_name": "Omoplata from Closed Guard",
+  "portuguese_name": "Omoplata da Guarda Fechada",
+  "description": "The Omoplata from Closed Guard is a powerful shoulder lock that leverages the practitioner's legs against one of the opponent's arms. It focuses on breaking the opponent's posture, creating an angle, and using hip and elbow pressure to rotate the shoulder joint for submission.",
+  "difficulty": "Intermediate",
+  "sequential_diagram_steps": [
+    {
+      "timestamp": "2:05",
+      "label": "Grip Setup",
+      "detail": "From closed guard, establish a collar grip with one hand and an opposite sleeve or tricep grip with the other, pulling the opponent close to break their posture.",
+      "timestamp_seconds": 125,
+      "image_path": "/frames/6651656503394-01-04-Andrew Wiltse/step_0.jpg"
+    },
+    {
+      "timestamp": "2:25",
+      "label": "Leg Over Shoulder",
+      "detail": "Open your closed guard and swing the leg on the same side as your collar grip over the opponent's shoulder, trapping their arm between your legs and torso.",
+      "timestamp_seconds": 145,
+      "image_path": "/frames/6651656503394-01-04-Andrew Wiltse/step_1.jpg"
+    },
+    {
+      "timestamp": "3:23",
+      "label": "Hip Escape & Head Control",
+      "detail": "Execute a hip escape to create an angle, maintaining control of the trapped arm, and use your free hand or elbow to drive against the opponent's face to prevent them from posturing up.",
+      "timestamp_seconds": 203,
+      "image_path": "/frames/6651656503394-01-04-Andrew Wiltse/step_2.jpg"
+    },
+    {
+      "timestamp": "3:45",
+      "label": "Submission Finish",
+      "detail": "Extend your hips and pull your legs back, while continuing to push the opponent's head away and applying outward rotational pressure to their trapped shoulder to secure the omoplata.",
+      "timestamp_seconds": 225,
+      "image_path": "/frames/6651656503394-01-04-Andrew Wiltse/step_3.jpg"
+    }
+  ],
+  "subtitle_path": "/subtitles/6651656503394-01-04-Andrew Wiltse.vtt",
+  "enrichment": null
+}
